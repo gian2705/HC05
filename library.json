@@ -1,0 +1,27 @@
+{
+  "name": "HC05",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gian2705/HC05.git"
+  },
+  "description": "An Arduino library for the HC-05 & HC-06 Bluetooth devices",
+  "keywords": [
+    "Arduino",
+    "HC-05",
+    "HC-06"
+  ],
+  "authors": [
+    {
+      "name": "Jerry Dunmire",
+      "email": "jedunmire+github@gmail.com",
+      "url": "http://rockingdlabs.dunmire.org/"
+    },
+    {
+      "name": "Gift Nnko",
+      "email": "nnkogift@gmail.com",
+      "url": "https:gian2705.github.io",
+      "maintainer": true
+    }
+  ]
+}
